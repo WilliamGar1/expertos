@@ -1,0 +1,60 @@
+<div class="col-xl-2">
+                <div class="card">
+                    <img src="img/app-icons/1.webp" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">App 1</h5>
+                        <p class="card-text">Desarrollador: Facebook</p>
+                        <div>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                            <i class="far fa-star"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            {
+        nombreAplicacion: 'App 1',
+        urlImage: 'img/app-icons/1.webp',
+        desarrollador: 'Facebook',
+        calificacion: 3
+    },
+    {
+        nombreAplicacion: 'App 2',
+        urlImage: 'img/app-icons/2.webp',
+        desarrollador: 'Google',
+        calificacion: 2
+    },
+    {
+        nombreAplicacion: 'App 3',
+        urlImage: 'img/app-icons/3.webp',
+        desarrollador: 'Amazon',
+        calificacion: 4
+    },
+    {
+        nombreAplicacion: 'App 4',
+        urlImage: 'img/app-icons/4.webp',
+        desarrollador: 'Wikipedia',
+        calificacion: 1
+    },
+    {
+        nombreAplicacion: 'App 5',
+        urlImage: 'img/app-icons/5.webp',
+        desarrollador: 'YouTube',
+        calificacion: 3
+    },
+    {
+        nombreAplicacion: 'App 6',
+        urlImage: 'img/app-icons/6.webp',
+        desarrollador: 'Amazon',
+        calificacion: 2
+    },
+    {
+        nombreAplicacion: 'App 7',
+        urlImage: 'img/app-icons/7.webp',
+        desarrollador: 'Attlasian',
+        calificacion: 5
+    },
