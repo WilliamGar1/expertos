@@ -5,3 +5,19 @@ body {
     padding: 3rem 1.5rem;
     text-align: center;
 }
+
+.apps:hover{
+    background-color: rgb(255, 188, 65);
+    color: white;
+}
+
+.user{
+    background-image: url('../img/user.webp');
+    height: 64px;
+    width: 64px;
+
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
